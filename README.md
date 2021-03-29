@@ -1,7 +1,9 @@
 # wt
 Run Linux commands per SSH without complicated login parameters
 
-Use wt (change wt command name to name that fits your server i.e. **brutus**) to run commands on this server:
+Use wt (change wt command name to short name that fits your server i.e. **brutus** -> **bt**).
+
+To run commands on this server:
 
 **wt ping pong.de**
 
