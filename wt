@@ -1,0 +1,4 @@
+#!/bin/bash
+#http://www.linux-praxis.de/linux1/shell2_4.html
+
+ssh wt.mongoq.de -t $*
