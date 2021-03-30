@@ -1,5 +1,5 @@
 # wt
-Run Linux commands per SSH without complicated login parameters
+Run Linux commands per SSH without complicated login procedures.
 
 Use wt (change wt command name to short name that fits your server i.e. **brutus** -> **bt**).
 
