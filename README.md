@@ -14,6 +14,7 @@ Example commands to run on your server:
 To use **wt** either run the script **wt** or copy the file **.bash_aliases** to your home directory from this repository.
 
 Before you can run remote commands you have to setup your server to passwordless SSH-login.
+
 TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
 
 Don't forget to change the server name to one that fits your needs.
