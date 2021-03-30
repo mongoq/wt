@@ -14,3 +14,5 @@ Example commands to run on a server:
 Before you can do that you have to setup your server to password-less SSH-Login.
 
 TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
+
+TODO: Port this to Bash Alias
