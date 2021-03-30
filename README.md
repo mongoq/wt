@@ -9,7 +9,7 @@ To run commands on a server:
 
 **wt htop**
 
-**wt shutodwn -h now**
+**wt shutdown -h now**
 
 Before you can do that you have to setup your server to password-less SSH-Login.
 
