@@ -3,7 +3,7 @@ Run Linux commands per SSH without complicated login procedures.
 
 Use wt (change wt command name to a short name that fits your server i.e. **brutus** -> **bt**).
 
-To run commands on a server:
+Example commands to run on a server:
 
 **wt ping pong.de**
 
