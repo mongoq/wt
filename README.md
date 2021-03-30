@@ -15,4 +15,4 @@ Before you can do that you have to setup your server to passwordless SSH-login.
 
 TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
 
-TODO: Port this to Bash Alias - https://wiki.ubuntuusers.de/alias/
+Test with bash alias - https://wiki.ubuntuusers.de/alias/
