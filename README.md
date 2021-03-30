@@ -5,11 +5,11 @@ Use wt (change wt command name to a short name that fits your server i.e. **brut
 
 Example commands to run on your server:
 
-**wt ping pong.de**
+```**wt ping pong.de**```
 
-**wt htop**
+```**wt htop**```
 
-**wt shutdown -h now**
+```**wt shutdown -h now**```
 
 To use **wt** either run the script **wt** or copy the file **.bash_aliases** to your home directory from this repository.
 
