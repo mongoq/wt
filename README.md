@@ -17,4 +17,4 @@ Before you can run remote commands you have to setup your server to passwordless
 
 TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
 
-Don't forget to change the server name to one that fits your needs.
+Don't forget to change the server name (in the scripts) to one that fits your needs.
