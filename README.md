@@ -11,9 +11,9 @@ Example commands to run on your server:
 
 ```wt shutdown -h now```
 
-```wt``` (passwordless login)
+```wt``` (passwordless SSH-login)
 
-To use **wt** either run the script **wt** or copy the file **.bash_aliases** to your home directory from this repository.
+To use **wt** either copy and run the script **wt** or copy the file **.bash_aliases** to your home directory from this repository.
 
 Before you can run remote commands you have to setup your server to passwordless SSH-login.
 
