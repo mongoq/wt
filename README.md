@@ -17,6 +17,7 @@ To use **wt** either copy and run the script **wt** or copy the file **.bash_ali
 
 Before you can run remote commands you have to setup your server to passwordless SSH-login.
 
-TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
+TODO: Write short summary on https://linuxize.com/post/how-to-setup-passwordless-ssh-login/ or
+https://checkmk.com/de/linux-wissen/ssh-anmeldung-ohne-passwort
 
 Don't forget to change the server name (in the scripts) to one that fits your needs.
